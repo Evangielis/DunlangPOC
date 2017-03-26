@@ -1,0 +1,2 @@
+describe actor "foo":
+    it "bars"
