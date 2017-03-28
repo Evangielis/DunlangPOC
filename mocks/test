@@ -1,2 +1,5 @@
-describe actor "foo":
-    it "bars"
+describe actor "goblin"
+    it is #monster #hostile
+    when @look
+        it shows:
+            "This is a goblin!  It is small, green and nasty looking."
